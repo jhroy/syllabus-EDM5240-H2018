@@ -2,7 +2,7 @@
 
 -----
 
-Dans les prochaines pages, on verra comment le cours est structuré et comment la matière sera dispensée au fil des semaines, entre le 10 janvier et le 18 avril 2018.
+Dans les prochaines pages, on verra comment le cours est structuré et comment la matière sera dispensée au fil des semaines.
 
 En voici le résumé&nbsp;:
 

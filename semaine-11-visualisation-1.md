@@ -4,13 +4,17 @@
 
 -----
 
-Outils simples de visualisation interactive, dont:
+Dans la première moitié du cours, on va voir quelque principes de base en information graphique selon l'un des principaux experts dans ce domaine, [Alberto Cairo](https://twitter.com/albertocairo).
+
+[![](/assets/truthfulart.jpeg)](http://www.thefunctionalart.com/p/the-truthful-art-book.html)
+
+Dans la seconde moitié du cours, on abordera ensuite quelques outils simples de visualisation interactive, dont:
 
 - [Infogr.am](https://infogr.am)
 - [Datawrapper](https://www.datawrapper.de/)
 - [Plot.ly](https://plot.ly/)
 
-Dans la seconde moitié du cours, on va immédiatement plonger dans Carto.
+Puis, on va plonger dans Carto.
 
 ![](/assets/Carto_Logo.png)
 

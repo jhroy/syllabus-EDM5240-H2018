@@ -11,12 +11,12 @@ Pour me prouver que vous êtes abonnés, il vous suffira de faire une copie (*«
 
 Ne tardez pas trop. *«&nbsp;Forkez&nbsp;»* mon *«&nbsp;repo&nbsp;»* avant 23h59, le soir du cours  où je vous monterai comment faire, le 31 janvier 2018.
 
-## Devoir 1 [(description)]()
+## Devoir 1 [(description)](devoir1.md)
 Vous devez déposer votre script (**devoir1.py**) dans votre compte Github. Plus précisément, placez-le dans un répertoire (*«&nbsp;repo&nbsp;»*) que vous baptiserez **EDM5240-devoir-1**.
 
 Postez-le avant 23h59, le 4 février 2018.
 
-## Devoir 2 [(description)]()
+## Devoir 2 [(description)](devoir2.md)
 Vous devez déposer votre script (**devoir2.py**) dans votre compte Github. Plus précisément, placez-le dans un *«&nbsp;repo&nbsp;»* que vous baptiserez **EDM5240-devoir-2**.
 
 Postez-le avant 23h59, le 11 février 2018.
@@ -26,7 +26,7 @@ Vous devez déposer votre script (**moisson-_[SUJET]_.py**) dans votre compte Gi
 
 **Tombée**&nbsp;: après la semaine de relâche, donc avant 23h59 le 4 mars 2018.
 
-## Devoir 3 [(description)]()
+## Devoir 3 [(description)](devoir3.md)
 Vous commencez à être de vieux routiers de Github. Est-il nécessaire de vous dire que vous devez, ici encore, déposer votre script (**devoir3.py**) dans votre compte Github. Plus précisément, placez-le dans un *«&nbsp;repo&nbsp;»* que vous baptiserez **EDM5240-devoir-3**.
 
 Postez-le avant 23h59, le 13 mars 2018 (je vous donne un peu plus de temps car je serai ce weekend-là au [congrès du National Institute for Computer-Assisted Reporting](https://ire.org/conferences/nicar18/), à Chicago).

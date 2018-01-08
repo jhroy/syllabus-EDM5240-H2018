@@ -16,6 +16,6 @@ Le contenu de ce cours, en fait, colle davantage à ce qu'on appelle, dans le mo
 -----
 
 ```Le cours a lieu tous les mercredis entre 14h et 17h au local **J-1330**, du 10 janvier au 18 avril 2018.```
-```Avoir son propre ordinateur est utile pour ce cours.```
+<br>```Avoir son propre ordinateur est utile pour ce cours.```
 
 ![](/assets/LogoUQAM.png)

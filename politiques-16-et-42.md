@@ -4,7 +4,7 @@
 
 -----
 
-#### Vous n'avez pas à tolérer quelque forme de harcèlement que ce soit de la part de qui que ce soit (enseignants, étudiants, responsables de stage, etc.). Je m'engage à tout mettre en oeuvre pour vous offrir un milieu d'apprentissage libre de harcèlement.
+#### Vous n'avez pas à tolérer quelque forme de harcèlement que ce soit de la part de qui que ce soit (enseignants, étudiants, responsables de stage, etc.). Je m'engage à tout mettre en oeuvre pour vous offrir un milieu d'apprentissage exempt de harcèlement.
 
 -----
 

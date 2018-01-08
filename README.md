@@ -2,7 +2,7 @@
 ## Technologies de l'information appliquées au journalisme [ou journalisme informatique] - Session d'hiver 2018
 
 ##### Ce syllabus est accessible en ligne à partir de l'URL [jhroy.gitbooks.io/edm5240-h2018/](https://jhroy.gitbooks.io/edm5240-h2018/)
-##### Certains éléments de ce document, dans ses versions en ligne ou PDF, sont en anglais. Veuillez m'en excuser, je n'ai pas trouvé la façon de les franciser sur [le service dont je me suis servi pour le diffuser](https://www.gitbook.com).
+##### Certains éléments de ce document, dans ses versions en ligne ou PDF, sont en anglais. Veuillez m'en excuser, je n'ai pas trouvé la façon de les franciser sur [GitBook](https://www.gitbook.com).
 
 -----
 

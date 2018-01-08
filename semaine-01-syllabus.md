@@ -10,6 +10,11 @@ La matière de ce cours est difficile. Difficile à apprendre pour vous. Diffici
 
 Le cours est donné depuis 2016 seulement. J'ai constaté qu'il était préférable de commencer par ce qu'il y a de plus difficile, à savoir la programmation. L'avantage, c'est qu'au fur et à mesure qu'on va avancer dans le cours, la matière devrait progressivement devenir moins compliquée. Vous aurez en quelque sorte été «&nbsp;initiés&nbsp;» dans la première moitié de la session.
 
+Cette façon de procéder correspond également au «&nbsp;pipeline&nbsp;» du journalisme informatique, aux étapes de cette pratique&nbsp;:
+1. On effectue la cueillette de l'information ou des données, souvent, grâce à de la programmation.
+1. On analyse, ensuite, ces données.
+1. On raconte, enfin, l'histoire que recèle ces données grâce, entre autres, à des visualisations.
+
 J'ai confiance que vous pourrez y arriver. Dites-moi si le rythme est trop intense \(ou trop lent\). Je ne veux pas vous assomer. Je veux vous accompagner. 
 
 N'hésitez jamais à me poser des questions et à me dire ce que vous êtes curieux d'apprendre ou de faire et je vais tenter de vous aider. Vous avez envie d'essayer d'appliquer l'intelligence artificielle au journalisme dans votre travail final? *¿Porque no?*

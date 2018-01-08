@@ -16,7 +16,7 @@ Dans ce deuxième cours, je vous montrerai aussi quelques exemples québécois, 
 
 On verra en outre les différentes étapes du journalisme informatique, étapes qui structurent le contenu de ce cours.
 
-Enfin, je vous montrerai un des outils dont nous nous servirons au cours de la session et que je vous décris en quelques lignes ci-dessous&nbsp;:
+Enfin, je vous montrerai quelques-uns des outils dont nous nous servirons au cours de la session&nbsp;:
 
 ## Sublime Text (si possible)
 

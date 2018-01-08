@@ -4,7 +4,7 @@
 
 Pour en savoir davantage sur le journalisme informatique ou «&nbsp;de données&nbsp;», voici une liste non-exhaustive d'ouvrages et d'articles qui pourraient vous intéresser&nbsp;:
 
-* Anderson, C. W., Bell, E. et Shirky, C. (2012). *Post-Industrial Journalism&nbsp;: Adapting to the Present* (122 p.). Columbia Journalism School - Tow Center for Digital Journalism. Récupéré de [http://towcenter.org/wp-content/uploads/2012/11/TOWCenter-Post_Industrial_Journalism.pdf]
+* Anderson, C. W., Bell, E. et Shirky, C. (2012). *Post-Industrial Journalism&nbsp;: Adapting to the Present*. Columbia Journalism School - Tow Center for Digital Journalism. Récupéré de [http://towcenter.org/wp-content/uploads/2012/11/TOWCenter-Post_Industrial_Journalism.pdf]. 122 p.
 * Cabra, M. (2017). *How ICIJ went from having no data team to being a tech-driven media organization*. International Consortium of Investigative Journalists. Récupéré le 29 novembre 2017 de [https://www.icij.org/blog/2017/11/icij-went-no-data-team-tech-driven-media-organization/]
 * Cairo, A. (2012). *The Functional Art&nbsp;: An introduction to information graphics and visualization*. San Francisco&nbsp;: New Riders. 402 pages.
 * Cairo, A. (2016). *The Truthful Art&nbsp;: Data, Charts, and Maps for Communication*. San Francisco&nbsp;: New Riders. 523 pages.

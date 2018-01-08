@@ -20,6 +20,6 @@ En voici le résumé&nbsp;:
 | [10](/semaine-10-pandas-2.md)| 14 mars | Pandas 2 et Dialogflow | Devoir #3 |
 | [11](/semaine-11-visualisation-1.md)| 21 mars | Visualisation 1 | |
 | [12](/semaine-12-presentations-1.md)| 28 mars | Présentations initiales | Rien à remettre, mais<br>**Évaluation de l'enseignement** |
-| [13](/semaine-13-visualisation-2.md)| 4 avril | Visualisation 2 | |
+| [13](/semaine-13-visualisation-2.md)| 4 avril | Visualisation 2 et SQL | |
 | [14](/semaine-14-tutorat.md)| 11 avril | Tutorat | Rendez-vous |
 | [15](/semaine-15-presentations-2.md)| 18 avril | Présentations finales | Travail final +<br>*Making-of*|

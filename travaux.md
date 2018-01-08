@@ -5,19 +5,19 @@
 Les travaux à remettre ont été mentionnés brièvement dans les pages précédentes. Je vous donne, ci-dessous, un peu plus de détails sur chacun de ces éléments d'évaluation.
 
 ## Abonnement à Github
-Pour me prouver que vous êtes abonnés, il vous suffira de faire une copie (*«&nbsp;fork&nbsp;»*) de mon répertoire (*«&nbsp;repo&nbsp;»*) **syllabus-edm5240-H2018**. Vous trouverez, bien entendu, mon répertoire sur mon compte Github. Mon pseudonyme est **jhroy**.
+Pour me prouver que vous êtes abonnés, il vous suffira de faire une copie (*«&nbsp;fork&nbsp;»*) de mon répertoire (*«&nbsp;repo&nbsp;»*) **syllabus-EDM5240-H2018**. Vous trouverez, bien entendu, mon répertoire sur mon compte Github. Mon pseudonyme est **jhroy**.
 
 ![](/assets/fork.png)
 
 Ne tardez pas trop. *«&nbsp;Forkez&nbsp;»* mon *«&nbsp;repo&nbsp;»* avant 23h59, le soir du cours  où je vous monterai comment faire, le 31 janvier 2018.
 
 ## Devoir 1 [(description)](devoir1.md)
-Vous devez déposer votre script (**devoir1.py**) dans votre compte Github. Plus précisément, placez-le dans un répertoire (*«&nbsp;repo&nbsp;»*) que vous baptiserez **EDM5240-devoir-1**.
+Vous devez déposer votre script (**devoir1.py**) dans votre compte Github. Plus précisément, placez-le dans un répertoire (*«&nbsp;repo&nbsp;»*) que vous baptiserez **EDM5240-devoir1**. Le nom exact est important, car un robot va ramasser votre devoir. S'il ne trouve pas ce nom précis, il ne trouvera rien.
 
 Postez-le avant 23h59, le 4 février 2018.
 
 ## Devoir 2 [(description)](devoir2.md)
-Vous devez déposer votre script (**devoir2.py**) dans votre compte Github. Plus précisément, placez-le dans un *«&nbsp;repo&nbsp;»* que vous baptiserez **EDM5240-devoir-2**.
+Vous devez déposer votre script (**devoir2.py**) dans votre compte Github. Plus précisément, placez-le dans un *«&nbsp;repo&nbsp;»* que vous baptiserez très précisément **EDM5240-devoir2**.
 
 Postez-le avant 23h59, le 11 février 2018.
 
@@ -27,9 +27,9 @@ Vous devez déposer votre script (**moisson-_[SUJET]_.py**) dans votre compte Gi
 **Tombée**&nbsp;: après la semaine de relâche, donc avant 23h59 le 4 mars 2018.
 
 ## Devoir 3 [(description)](devoir3.md)
-Vous commencez à être de vieux routiers de Github. Est-il nécessaire de vous dire que vous devez, ici encore, déposer votre script (**devoir3.py**) dans votre compte Github. Plus précisément, placez-le dans un *«&nbsp;repo&nbsp;»* que vous baptiserez **EDM5240-devoir-3**.
+Vous commencez à être de vieux routiers de Github. Est-il nécessaire de vous dire que vous devez, ici encore, déposer votre script (**devoir3.py**) dans votre compte Github. Plus précisément, placez-le dans un *«&nbsp;repo&nbsp;»* que vous baptiserez **EDM5240-devoir3**.
 
-Postez-le avant 23h59, le 13 mars 2018 (je vous donne un peu plus de temps car je serai ce weekend-là au [congrès du National Institute for Computer-Assisted Reporting](https://ire.org/conferences/nicar18/), à Chicago).
+Postez-le avant 23h59, le 13 mars 2018 (je vous donne un peu plus de temps car je serai ce weekend-là au [congrès du National Institute for Computer-Assisted Reporting](https://ire.org/conferences/nicar18/)).
 
 ## Présentation initiale
 
@@ -52,7 +52,7 @@ Si vous choisissez l'**option reportage**, vous pouvez le faire sur un **sujet**
 La production de ce reportage ou de cet outil devra impliquer de la programmation en Python pour moissonner, traiter ou visualiser des données.<br>
 Votre reportage devra également comprendre au moins une entrevue avec un expert, un témoin, ou tout autre intervenant en mesure de valider ou d'incarner ce que racontent les données dans votre reportage.
 
-L'**option outil** peut prendre diverses formes. Il peut s'agir d'un robot sur Twitter, d'un outil qui automatise des tâches fastidieuses dans une salle de presse, etc. Si vous vous êtes déjà dit&nbsp;: «&nbsp;Hé! Ce serait cool si on pouvait faire telle affaire&nbsp;» Eh bien, allez-y! Faites-la! Vous en êtes certainement capable!
+L'**option outil** peut prendre diverses formes. Il peut s'agir d'un robot sur Twitter, d'un outil qui automatise des tâches fastidieuses dans une salle de presse, etc. Si vous vous êtes déjà dit&nbsp;: «&nbsp;Hé! Ce serait cool si on pouvait faire telle chose&nbsp;» Eh bien, allez-y! Faites-la! Vous en êtes certainement capable!
 
 ## *Making-of*
 
@@ -67,7 +67,7 @@ Votre travail final doit être accompagné d'un texte **(en format PDF)**&nbsp;:
   - Quels problèmes avez-vous éprouvés (s'il y a lieu).
 - accompagné de tous les scripts **(fichiers .py ou .rb ou .js)** que vous avez écrits, s'il y a lieu.
 
-Vous m'envoyez tout cela par courriel avant le début du dernier cours (14h00, le 18 avril 2018).
+Vous m'envoyez tout cela par [courriel](mailto:roy.jean-hugues@uqam.ca?Subject=Mon%20saperlipopette%20de%20travail%20final) avant le début du dernier cours (14h00, le 18 avril 2018).
 
 -----
 

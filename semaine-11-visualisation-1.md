@@ -4,7 +4,7 @@
 
 -----
 
-Dans la première moitié du cours, on va voir quelques principes de base en information graphique selon l'un des principaux experts dans ce domaine, [Alberto Cairo](https://twitter.com/albertocairo).
+Dans la première moitié du cours, on va voir quelques principes de base en information graphique en se basant, entre autres, sur l'ouvrage ci-dessous&nbsp;:
 
 [![](/assets/truthfulart.jpeg)](http://www.thefunctionalart.com/p/the-truthful-art-book.html)
 

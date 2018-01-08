@@ -1,4 +1,4 @@
-# Cours 10 - Pandas 2
+# Cours 10 - Pandas 2 et Dialogflow
 
 ### 14 mars 2018
 
@@ -10,7 +10,7 @@ Je vous donnerai un dernier devoir, question de bien assimiler pandas. Tombée d
 
 ![Logo de Dialogflow](/assets/dialogflow.png)
 
-Dans la deuxième moitié du cours, je vous montrerai aussi comment fonctionne [Dialogflow](https://dialogflow.com/), un outil qui permet de programmer facilement des robots conversationnels avec des hauts-parleurs connectés comme Alexa ou Google Home, ou encore sur des plateformes en ligne comme Facebook, Twitter, Slack, etc. C'est de l'intelligence artificielle rendue plus facilement accessible.
+Dans la deuxième moitié du cours, je vous montrerai aussi comment fonctionne [Dialogflow](https://dialogflow.com/), un outil qui permet de programmer facilement des robots conversationnels qui fonctionnent sur des hauts-parleurs connectés comme Alexa ou Google Home, ou encore sur des plateformes en ligne comme Facebook, Twitter, Slack, etc. C'est de l'intelligence artificielle à notre portée.
 
 -----
 

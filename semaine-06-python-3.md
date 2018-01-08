@@ -9,7 +9,7 @@
 
 -----
 
-Ce qu'on appelle en anglais du *scraping* peut être traduit en français par du **moissonnage**.
+On va maintenant faire ce qu'on appelle en anglais du *scraping*, ce qui peut être traduit en français par du **moissonnage**.
 
 On va rapidement voir des outils simples pour moissonner des données grâce aux **feuilles de calcul Google**.
 

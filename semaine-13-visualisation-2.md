@@ -1,4 +1,4 @@
-# Cours 13 - Visualisation 2
+# Cours 13 - Visualisation 2 et SQL
 
 ### 4 avril 2018
 

@@ -16,7 +16,7 @@
     * [Semaine 10 - Pandas 2 et Dialogflow](semaine-10-pandas-2.md)
     * [Semaine 11 - Visualisation 1](semaine-11-visualisation-1.md)
     * [Semaine 12 - Présentations initiales](semaine-12-presentations-1.md)
-    * [Semaine 13 - Visualisation 2](semaine-13-visualisation-2.md)
+    * [Semaine 13 - Visualisation 2 et SQL](semaine-13-visualisation-2.md)
     * [Semaine 14 - Tutorat](semaine-14-tutorat.md)
     * [Semaine 15 - Présentations finales](semaine-15-presentations-2.md)
 * [Travaux](travaux.md)

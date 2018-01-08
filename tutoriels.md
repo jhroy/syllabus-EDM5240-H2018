@@ -6,7 +6,7 @@ Les différents tutoriels que je vous ai présentés au cours de la session sont
 
 * [Création d'un répertoire dans Github](https://medium.com/@jeanhuguesroy/comment-partager-votre-script-sur-github-9f7116d86034)
 * [Unix (ou *bash*) pour journalistes](https://medium.com/@jeanhuguesroy/unix-pour-journalistes-1352aad18f2a)
-* [BeautifulSoup](bit.ly/jhroybs4)
+* [BeautifulSoup](http://bit.ly/jhroybs4)
 * [Pandas](https://github.com/jhroy/tuto-pandas/blob/master/tutoriel.ipynb)
 * [Utiliser un carnet Jupyter avec Cloud9](https://gist.github.com/jhroy/628b9dfca4896571352e4f735c024583)
 * [Les principales commandes SQL](https://gist.github.com/jhroy/21acbdf067adc6721b20fbb8aabe020a#file-mysql-requetes-sql)

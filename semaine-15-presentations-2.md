@@ -1,4 +1,4 @@
-# Semaine 15 - Présentations finales
+# Cours 15 - Présentations finales
 
 ### 18 avril 2018
 

@@ -15,7 +15,7 @@ Cette façon de procéder correspond également au «&nbsp;pipeline&nbsp;» du j
 1. On analyse, ensuite, ces données.
 1. On raconte, enfin, l'histoire que recèle ces données grâce, entre autres, à des visualisations.
 
-J'ai confiance que vous pourrez y arriver. Dites-moi si le rythme est trop intense \(ou trop lent\). Je ne veux pas vous assomer. Je veux vous accompagner. 
+J'ai confiance que vous pourrez y arriver. Dites-moi si le rythme est trop intense \(ou trop lent\). Je ne veux pas vous assomer. Je veux vous accompagner, dans la mesure de mes modestes capacités car, je le rappelle&nbsp;, ce que je ne connais pas est immense.
 
 N'hésitez jamais à me poser des questions et à me dire ce que vous êtes curieux d'apprendre ou de faire et je vais tenter de vous aider. Vous avez envie d'essayer d'appliquer l'intelligence artificielle au journalisme dans votre travail final? *¿Porque no?*
 

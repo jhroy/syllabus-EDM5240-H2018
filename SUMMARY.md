@@ -20,6 +20,7 @@
     * [Semaine 14 - Tutorat](semaine-14-tutorat.md)
     * [Semaine 15 - Présentations finales](semaine-15-presentations-2.md)
 * [Travaux](travaux.md)
+* [Tutoriels](turoriels.md)
 * [Annexes](annexes.md)
     * [Politiques \#16 et \#42](politiques-16-et-42.md)
     * [Règlement \#18](reglement-18.md)

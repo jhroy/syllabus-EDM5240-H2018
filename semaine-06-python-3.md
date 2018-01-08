@@ -15,6 +15,8 @@ On va rapidement voir des outils simples pour moissonner des données grâce aux
 
 Mais on va s'y mettre surtout à l'aide de la bibliothèque Python [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/).
 
+Pour référence, j'ai mis en ligne [ce tutoriel sur BeautifulSoup](http://bit.ly/jhroybs4).
+
 -----
 
 ##### Retour au [calendrier](/calendrier.md)

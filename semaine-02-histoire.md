@@ -22,7 +22,7 @@ Enfin, je vous montrerai quelques-uns des outils dont nous nous servirons au cou
 
 [![](/assets/sublimetext3.png)](https://www.sublimetext.com/3)
 
-Si vous l'avez pas déjà, téléchargez Sublime Text ([version 3](https://www.sublimetext.com/3) ou [version 2](https://www.sublimetext.com/2), dont je me sers). C'est un éditeur de code qui vous sera très utile tout au long de la session.
+Si vous l'avez pas déjà, téléchargez Sublime Text ([version 3](https://www.sublimetext.com/3) [ou [version 2](https://www.sublimetext.com/2), dont je me sers]). C'est un éditeur de code qui vous sera très utile tout au long de la session.
 
 ## Anaconda (si possible)
 

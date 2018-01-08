@@ -19,7 +19,7 @@ On va y voir quelques-unes des commandes les plus utiles, dont, entre autres:
 - `curl`
 - `wget`
 
-Vous pourrez faire les exercices en classe avec le *terminal* de votre distribution *Anaconda* ou encore avec celui de votre compte *Cloud9*.
+Vous pourrez faire les exercices en classe avec le *terminal* de votre ordi ou d'*Anaconda*, ou encore avec celui de votre compte *Cloud9*.
 
 Pour référence, voici quelques-unes des [commandes Unix les plus utiles en journalisme](https://medium.com/@jeanhuguesroy/unix-pour-journalistes-1352aad18f2a).
 

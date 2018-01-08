@@ -1,4 +1,4 @@
-# Semaine 14 - Tutorat
+# Cours 14 - Tutorat
 
 ### 11 avril 2018
 

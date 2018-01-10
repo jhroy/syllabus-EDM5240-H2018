@@ -22,7 +22,7 @@ N'hésitez jamais à me poser des questions et à me dire ce que vous êtes curi
 ![](/assets/googhome.png)
 
 
-Mon objectif, c'est de vous fournir des outils qui, j'ose le croire, vous serviront durant toute votre vie professionnelle, même si vous choisissez de faire autre chose que du journalisme.
+Mon objectif, c'est de vous fournir des [outils](https://github.com/PublicDataLab/fake-news-field-guide/blob/master/texts/chapter_6.md) qui, j'ose le croire, vous serviront durant toute votre vie professionnelle, même si vous choisissez de faire autre chose que du journalisme.
 
 :rocket:
 

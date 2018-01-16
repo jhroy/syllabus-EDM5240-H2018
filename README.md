@@ -1,7 +1,8 @@
 # EDM5240
 ## Technologies de l'information appliquées au journalisme [ou journalisme informatique] - Session d'hiver 2018
 
-##### Ce syllabus est accessible en ligne à partir de l'URL [jhroy.gitbooks.io/edm5240-h2018/](https://jhroy.gitbooks.io/edm5240-h2018/)
+##### Ce syllabus est accessible en ligne à partir de l'URL [jhroy.gitbooks.io/edm5240-h2018/](https://jhroy.gitbooks.io/edm5240-h2018/).
+##### Pédagogie transparente&nbsp;: pour faire le suivi des changements apportés à ce syllabus depuis sa mise en ligne initiale, consultez la [page de ses *commits*](https://github.com/jhroy/syllabus-EDM5240-H2018/commits/master).
 ##### Certains éléments de ce document, dans ses versions en ligne ou PDF, sont en anglais. Veuillez m'en excuser, je n'ai pas trouvé la façon de les franciser sur [GitBook](https://www.gitbook.com).
 
 -----

@@ -16,7 +16,7 @@ Je vais vous demander de vous y abonner (ici encore, c'est gratuit) et de faire 
 
 ![](/assets/python.png "Le langage python")
 
-Nous allons ensuite nous tremper les orteils dans le langage de programmation [Python](https://fr.wikipedia.org/wiki/Python_(langage)).
+Nous allons ensuite nous tremper les orteils dans le langage de programmation [Python](https://fr.wikipedia.org/wiki/Python_(langage).
 
 On va commencer par les concepts de base&nbsp;:
 

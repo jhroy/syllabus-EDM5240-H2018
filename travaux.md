@@ -14,12 +14,12 @@ Ne tardez pas trop. *«&nbsp;Forkez&nbsp;»* mon *«&nbsp;repo&nbsp;»* avant 23
 ## Devoir 1 [(description)](devoir1.md)
 Vous devez déposer votre script (**devoir1.py**) dans votre compte Github. Plus précisément, placez-le dans un répertoire (*«&nbsp;repo&nbsp;»*) que vous baptiserez **EDM5240-devoir1**. Le nom exact est important, car un robot va ramasser votre devoir. S'il ne trouve pas ce nom précis, il ne trouvera rien.
 
-Postez-le avant 23h59, le 4 février 2018.
+Postez-le avant 23h59, le 11 février 2018.
 
 ## Devoir 2 [(description)](devoir2.md)
 Vous devez déposer votre script (**devoir2.py**) dans votre compte Github. Plus précisément, placez-le dans un *«&nbsp;repo&nbsp;»* que vous baptiserez très précisément **EDM5240-devoir2**.
 
-Postez-le avant 23h59, le 11 février 2018.
+Postez-le avant 23h59, le 18 février 2018.
 
 ## Moissonnage de mi-session
 Vous devez déposer votre script (**moisson-_[SUJET]_.py**) dans votre compte Github. Placez-le dans un *«&nbsp;repo&nbsp;»* que vous appellerez **EDM5240-moisson**.

@@ -11,7 +11,7 @@ Pour me prouver que vous êtes abonnés, il vous suffira de faire une copie (*«
 
 Ne tardez pas trop. *«&nbsp;Forkez&nbsp;»* mon *«&nbsp;repo&nbsp;»* avant 23h59, le soir du cours  où je vous monterai comment faire, le 31 janvier 2018.
 
-## Devoir 1 [(description)](devoir1.md)
+## Devoir 1 [L'engagement des médias québécois sur Facebook](devoir1.md)
 Vous devez déposer votre script (**devoir1.py**) dans votre compte Github. Plus précisément, placez-le dans un répertoire (*«&nbsp;repo&nbsp;»*) que vous baptiserez **EDM5240-devoir1**. Le nom exact est important, car un robot va ramasser votre devoir. S'il ne trouve pas ce nom précis, il ne trouvera rien.
 
 Postez-le avant 23h59, le 4 février 2018.

@@ -2,7 +2,7 @@
 
 ![](https://www.seeklogo.net/wp-content/uploads/2016/09/facebook-icon-preview-1-400x400.png)
 
-Pour ce premier devoir, j'ai déjà fourni un fichier à partir duquel vous devrez travailler. Il s'agit du fichier [devoir1.py](devoir1.py) que vous pouvez copier-coller dans Sublime&nbsp;Text. Vous pouvez aussi le télécharger pour ensuite l'ouvrir avec Sublime&nbsp;Text.
+Pour ce premier devoir, je vous fournis un fichier à partir duquel vous devrez travailler. C'est [devoir1.py](devoir1.py) que vous pouvez copier-coller dans Sublime&nbsp;Text. Vous pouvez aussi le télécharger pour ensuite l'ouvrir avec Sublime&nbsp;Text.
 
 Vous constaterez qu'il s'agit d'un début de script python qui ne contient pour l'instant qu'une variable appelée **_publications_**.
 
@@ -30,6 +30,3 @@ Bonne chance!
 <hr>
 
 Si vous souhaitez faire un deuxième exercice, vous pouvez tenter de faire [le devoir 1 de l'hiver 2017](https://github.com/jhroy/syllabus-edm5240-H2017/blob/master/devoir1.md). Si vous avez du mal, vous pouvez consulter [les solutions proposées par les étudiants](https://github.com/Journalisme-UQAM?utf8&q=devoir-1) (et les corrigés qu'elles contiennent).
-=======
-Suspense...
->>>>>>> origin/master

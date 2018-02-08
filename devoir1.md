@@ -29,4 +29,8 @@ Bonne chance!
 
 <hr>
 
-Si vous souhaitez faire un deuxième exercice, vous pouvez tenter de faire [le devoir 1 de l'hiver 2017](https://github.com/jhroy/syllabus-edm5240-H2017/blob/master/devoir1.md). Si vous avez du mal, vous pouvez consulter [les solutions proposées par les étudiants](https://github.com/Journalisme-UQAM?utf8&q=devoir-1) (et les corrigés qu'elles contiennent).
+Si vous souhaitez faire un deuxième exercice, vous pouvez tenter de faire [le devoir 1 de l'hiver 2017](https://github.com/jhroy/syllabus-edm5240-H2017/blob/master/devoir1.md) qui consiste à générer les numéros de permis du collège des médecins à partir de 2017 et de reculer jusqu'en 1930.
+
+Vous pouvez consulter [les solutions proposées par les étudiants](https://github.com/Journalisme-UQAM?utf8&q=devoir-1) (et les corrigés qu'elles contiennent).
+
+Vous pouvez également voir [le code que j'ai présenté en classe](mdNumPermis.py) pour générer ces numéros de permis.

@@ -23,7 +23,13 @@ Si on considère que l'**engagement** sur un *«post»* est la somme des partage
 
 ```Les publications du média X ont été partagées X fois, ont provoqué X réactions et ont généré X commentaires, pour un engagement total de X en 2017.```
 
-N'oubliez pas de mettre votre script, une fois que vous l'aurez complété, dans un répertoire sur votre compte Github, répertoire que vous appellerez **EDM5240-devoir1** avant l'[heure de tombée](travaux.md).
+Vous vous rendrez compte qu'il y a une difficulté dans ce devoir: comment compter les données pour chacun des médias?
+
+Je vous suggère de commencer par écrire un premier script qui compte le nombre de partages, de réactions, de commentaires ainsi que l'engagement **POUR L'ENSEMBLE** des 101 médias de cet échantillon. Comme je l'explique dans [mes critères d'évaluation](travaux.md#mes-critères-dévaluation), si vous remettez un script qui fait cela, je considérerais qu'il s'agit d'un effort qui vaut un B, voire un B+.
+
+Essayez ensuite de voir comment faire pour les compter pour chaque média individuellement.
+
+N'oubliez pas de mettre votre script, une fois que vous l'aurez complété, dans un répertoire sur votre compte Github, répertoire que vous appellerez **EDM5240-devoir1** avant l'[heure de tombée](travaux.md#devoir-1-lengagement-des-médias-québécois-sur-facebook).
 
 Bonne chance!
 

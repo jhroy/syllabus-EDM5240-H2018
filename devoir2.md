@@ -8,7 +8,7 @@ Vous vous intéressez aux subventions que [le ministère dont Mélanie Joly a la
 
 Vous avez trouvé un fichier sur [le site des données ouvertes du gouvernement fédéral](https://ouvert.canada.ca/data/fr/dataset/432527ab-7aac-45b5-81d6-7597107a7013).
 
-Mais le fichier, appelé [**_grants.csv_**](grants.csv), est énorme.
+Mais le fichier, appelé [**_grants.csv_**](grants.csv), est énorme (vous pouvez le télécharger avec le bouton «Download», sur la droite).
 
 Votre deuxième devoir consiste à en extraire une version plus petite.
 

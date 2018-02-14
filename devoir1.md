@@ -29,7 +29,7 @@ Je vous suggère de commencer par écrire un premier script qui compte le nombre
 
 Essayez ensuite de voir comment faire pour les compter pour chaque média individuellement.
 
-N'oubliez pas de mettre votre script, une fois que vous l'aurez complété, dans un répertoire sur votre compte Github, répertoire que vous appellerez **EDM5240-devoir1** avant l'[heure de tombée](travaux.md#devoir-1-lengagement-des-médias-québécois-sur-facebook).
+N'oubliez pas de mettre votre script, une fois que vous l'aurez complété, dans un répertoire sur votre compte Github, répertoire que vous appellerez **EDM5240-devoir1** avant l'[heure de tombée](travaux.md#devoir-1---lengagement-des-médias-québécois-sur-facebook).
 
 Bonne chance!
 

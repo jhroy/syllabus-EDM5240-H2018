@@ -18,6 +18,6 @@ Votre script devra donc:
 - sauvegarder, dans un deuxième fichier que vous nommerez **periodiques.csv**, uniquement les lignes relatives aux subventions octroyées dans le cadre des **différents programmes** du Fonds du Canada pour les périodiques
 - ajouter, au passge, une colonne correspondant à l'année au cours de laquelle la subvention a été octoyée
 
-Comme avec le [devoir 1](devoir1.md), vous remettez votre script complété dans un répertoire que vous baptiserez **EDM5240-devoir2** sur votre compte Github avant l'heure de tombée indiquée dans la section [travaux](travaux.md#devoir-2---mélanie-joly).
+Comme avec le [devoir 1](devoir1.md), vous remettrez votre script complété dans un répertoire que vous baptiserez **EDM5240-devoir2** sur votre compte Github avant l'heure de tombée indiquée dans la section [travaux](travaux.md#devoir-2---mélanie-joly).
 
 Bonne chance!

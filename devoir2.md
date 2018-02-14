@@ -4,7 +4,7 @@
 
 ## Le Fonds du Canada pour les périodiques de Patrimoine canadien
 
-Vous vous intéressez aux subventions que le ministère dont Mélanie Joly a la responsabilité octroie aux périodiques.
+Vous vous intéressez aux subventions que [le ministère dont Mélanie Joly a la responsabilité](https://www.canada.ca/fr/patrimoine-canadien.html) octroie aux périodiques.
 
 Vous avez trouvé un fichier sur [le site des données ouvertes du gouvernement fédéral](https://ouvert.canada.ca/data/fr/dataset/432527ab-7aac-45b5-81d6-7597107a7013).
 

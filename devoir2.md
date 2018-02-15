@@ -10,13 +10,15 @@ Vous avez trouvé un fichier sur [le site des données ouvertes du gouvernement 
 
 Mais le fichier, appelé [**_grants.csv_**](https://www.dropbox.com/s/7lvdiuz24firmw0/grants.csv?dl=0), est énorme.
 
-Votre deuxième devoir consiste à en extraire une version plus petite.
+Votre deuxième devoir consiste à en réaliser les premières étapes pour en extraire une version plus petite.
 
 Votre script devra donc:
 
 - lire le fichier *grants.csv*
-- sauvegarder, dans un deuxième fichier que vous nommerez **periodiques.csv**, uniquement les lignes relatives aux subventions octroyées dans le cadre des **différents programmes** du Fonds du Canada pour les périodiques
+- afficher, dans le terminal ou le *«&nbsp;command prompt&nbsp;»*, uniquement les lignes relatives aux subventions octroyées dans le cadre des **différents programmes** du Fonds du Canada pour les périodiques
 - ajouter, au passge, une colonne correspondant à l'année au cours de laquelle la subvention a été octoyée
+
+On verra ensuite en classe comment sauvegarder les lignes sélectionnées dans un autre fichier.
 
 Comme avec le [devoir 1](devoir1.md), vous remettrez votre script complété dans un répertoire que vous baptiserez **EDM5240-devoir2** sur votre compte Github avant l'heure de tombée indiquée dans la section [travaux](travaux.md#devoir-2---mélanie-joly).
 

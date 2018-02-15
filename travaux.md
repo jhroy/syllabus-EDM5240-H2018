@@ -19,7 +19,7 @@ Postez-le avant 23h59, le 12 février 2018.
 ## Devoir 2 - [Mélanie Joly](https://github.com/jhroy/syllabus-EDM5240-H2018/blob/master/devoir2.md)
 Vous devez déposer votre script (**devoir2.py**) dans votre compte Github. Plus précisément, placez-le dans un *«&nbsp;repo&nbsp;»* que vous baptiserez très précisément **EDM5240-devoir2**.
 
-Postez-le avant 23h59, le 18 février 2018.
+Postez-le avant 23h59, le 19 février 2018.
 
 ## Moissonnage de mi-session
 Vous devez déposer votre script (**moisson-_[SUJET]_.py**) dans votre compte Github. Placez-le dans un *«&nbsp;repo&nbsp;»* que vous appellerez **EDM5240-moisson**.

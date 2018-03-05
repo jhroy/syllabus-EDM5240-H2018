@@ -1,6 +1,6 @@
 
-![Logo du gouvernement](gouvcanada.png)
-![Logo données ouvertes](donneesouvertes.png)
+![Logo du gouvernement](assets/gouvcanada.png)
+![Logo données ouvertes](assets/donneesouvertes.png)
 
 # Devoir 3
 

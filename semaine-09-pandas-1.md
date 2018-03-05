@@ -16,6 +16,8 @@ On va se servir de pandas en utilisant ce qu'on appelle des [*«&nbsp;notebooks&
 
 Il est plus difficile de s'en servir avec Cloud9, mais [ce n'est pas impossible](https://gist.github.com/jhroy/628b9dfca4896571352e4f735c024583).
 
+Je vous donnerai un dernier devoir, question de bien assimiler pandas. Tombée dans la section [travaux](travaux.md#devoir-3).
+
 -----
 
 ##### Retour au [calendrier](/calendrier.md)

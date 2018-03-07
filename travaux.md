@@ -26,7 +26,7 @@ Vous devez déposer votre script (**moisson-_[SUJET]_.py**) dans votre compte Gi
 
 **Tombée**&nbsp;: après la semaine de relâche, donc avant 23h59 le 4 mars 2018.
 
-## Devoir 3 - [Descrizione](https://github.com/jhroy/syllabus-EDM5240-H2018/blob/master/devoir3.md)
+## Devoir 3 [Accès à l'information](https://github.com/jhroy/syllabus-EDM5240-H2018/blob/master/devoir3.md)
 Vous commencez à être de vieux routiers de Github. Est-il nécessaire de vous dire que vous devez, ici encore, déposer votre script (**devoir3.py**) dans votre compte Github. Plus précisément, placez-le dans un *«&nbsp;repo&nbsp;»* que vous baptiserez **EDM5240-devoir3**.
 
 Postez-le avant 23h59, le 13 mars 2018 (je vous donne un peu plus de temps car je serai ce weekend-là au [congrès du National Institute for Computer-Assisted Reporting](https://ire.org/conferences/nicar18/)).

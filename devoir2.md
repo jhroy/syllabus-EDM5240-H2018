@@ -16,7 +16,7 @@ Votre script devra donc:
 
 - lire le fichier *grants.csv*
 - afficher, dans le terminal ou le *«&nbsp;command prompt&nbsp;»*, uniquement les lignes relatives aux subventions octroyées dans le cadre des **différents programmes** du Fonds du Canada pour les périodiques
-- ajouter, au passge, une colonne correspondant à l'année au cours de laquelle la subvention a été octoyée
+- ajouter, au passage, une colonne correspondant à l'année au cours de laquelle la subvention a été octoyée
 
 On verra ensuite en classe comment sauvegarder les lignes sélectionnées dans un autre fichier.
 
